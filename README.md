@@ -31,13 +31,9 @@ The goal is to transform inconsistent and messy raw sales data into actionable b
 
 | File | Description |
 |------|-------------|
-
-| `Supermart_Dashboard_Template.xlsx` | Final Excel Dashboard |
-| `Raw_Data/Supermart_Branch_Performance_Data.xlsx` | Cleaned source data |
 | `Snapshots/` | Dashboard screenshots |
-| `README.md` | This project description |
-| `warehouse_kpi_dashboard.xlsx` | Final Excel Dashboard (with KPIs & charts) |
-| `messy_warehouse_sales.csv` | Raw messy dataset with sales data |
+| `Raw_Date/warehouse and retail performance.xlsx` | Final Excel Dashboard (with KPIs & charts) |
+| `warehouse and retail analysis.xlsx` | Raw messy dataset with sales data |
 | `README.md` | This project description |
 
 ---
